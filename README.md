@@ -44,7 +44,7 @@ amplify push
 
 <br>
 
-Change "aws-exports.js" to "aws-exports.ts
+Change "aws-exports.js" to "aws-exports.ts".
 
 ```bash
 aws-exports.ts

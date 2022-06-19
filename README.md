@@ -44,6 +44,14 @@ amplify push
 
 <br>
 
+Change "aws-exports.js" to "aws-exports.ts
+
+```bash
+aws-exports.ts
+```
+
+<br>
+
 build
 ```bash
 npm run build
@@ -123,6 +131,14 @@ amplify init
 amplify push
 ```
 [AWS Amplify #002 - 環境構築](https://day-journal.com/memo/aws-amplify-002)
+
+<br>
+
+aws-exports.jsをaws-exports.tsに変更
+
+```bash
+aws-exports.ts
+```
 
 <br>
 

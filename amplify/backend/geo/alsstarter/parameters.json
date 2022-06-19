@@ -6,7 +6,6 @@
     "Ref": "UnauthRoleName"
   },
   "mapName": "alsstarter",
-  "mapStyle": "VectorHereBerlin",
-  "pricingPlan": "RequestBasedUsage",
+  "mapStyle": "VectorHereExplore",
   "isDefault": true
 }

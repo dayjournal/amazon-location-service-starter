@@ -3,12 +3,13 @@
 ![README02](img/README02.png)
 
 Start Amazon Location Service easily.  
-- [AWS Amplify v4.3.10](https://github.com/aws-amplify/amplify-js) 
-- [MapLibre GL JS Amplify v1.1.2](https://github.com/aws-amplify/maplibre-gl-js-amplify) 
-- [MapLibre GL JS v1.15.2](https://github.com/maplibre/maplibre-gl-js) 
-- [webpack v4.46.0](https://webpack.js.org)  
-- node v16.10.0
-- npm v7.24.0
+- [AWS Amplify v4.3.26](https://github.com/aws-amplify/amplify-js)  
+- [MapLibre GL JS Amplify v1.6.0](https://github.com/aws-amplify/maplibre-gl-js-amplify)  
+- [MapLibre GL JS v1.15.3](https://github.com/maplibre/maplibre-gl-js)  
+- [TypeScript v4.5.4](https://www.typescriptlang.org)  
+- [Vite v2.9.9](https://vitejs.dev)  
+- node v18.1.0
+- npm v8.8.0
 
 <br>
 
@@ -67,7 +68,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2021 Yasunori Kirimoto
+Copyright (c) 2021-2022 Yasunori Kirimoto
 
 <br>
 
@@ -84,12 +85,13 @@ Copyright (c) 2021 Yasunori Kirimoto
 ![README02](img/README02.png)
 
 Amazon Location Serviceを手軽に始める
-- [AWS Amplify v4.3.10](https://github.com/aws-amplify/amplify-js) 
-- [Maplibre GL JS Amplify v1.1.2](https://github.com/aws-amplify/maplibre-gl-js-amplify) 
-- [MapLibre GL JS v1.15.2](https://github.com/maplibre/maplibre-gl-js) 
-- [webpack v4.46.0](https://webpack.js.org)  
-- node v16.10.0
-- npm v7.24.0
+- [AWS Amplify v4.3.26](https://github.com/aws-amplify/amplify-js)  
+- [MapLibre GL JS Amplify v1.6.0](https://github.com/aws-amplify/maplibre-gl-js-amplify)  
+- [MapLibre GL JS v1.15.3](https://github.com/maplibre/maplibre-gl-js)  
+- [TypeScript v4.5.4](https://www.typescriptlang.org)  
+- [Vite v2.9.9](https://vitejs.dev)  
+- node v18.1.0
+- npm v8.8.0
 
 <br>
 
@@ -125,7 +127,6 @@ amplify push
 <br>
 
 ビルド
-
 ```bash
 npm run build
 ```
@@ -133,7 +134,6 @@ npm run build
 <br>
 
 開発
-
 ```bash
 npm run dev
 ```
@@ -148,6 +148,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2021 Yasunori Kirimoto
+Copyright (c) 2021-2022 Yasunori Kirimoto
 
 <br>

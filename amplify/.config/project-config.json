@@ -5,7 +5,7 @@
   "javascript": {
     "framework": "none",
     "config": {
-      "SourceDir": "_resouce",
+      "SourceDir": "src",
       "DistributionDir": "dist",
       "BuildCommand": "npm run build",
       "StartCommand": "npm run dev"

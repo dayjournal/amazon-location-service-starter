@@ -1,6 +1,6 @@
 {
   "auth": {
-    "alsstartera3ffb52d": {
+    "alsstarter65cede4f": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
@@ -30,9 +30,17 @@
       "isDefault": true,
       "providerPlugin": "awscloudformation",
       "service": "Map",
-      "mapStyle": "VectorHereBerlin",
-      "pricingPlan": "RequestBasedUsage",
-      "accessType": "AuthorizedAndGuestUsers"
+      "mapStyle": "VectorHereExplore",
+      "accessType": "AuthorizedAndGuestUsers",
+      "dependsOn": [
+        {
+          "category": "auth",
+          "resourceName": "alsstarter65cede4f",
+          "attributes": [
+            "UserPoolId"
+          ]
+        }
+      ]
     }
   }
 }

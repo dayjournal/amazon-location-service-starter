@@ -1,6 +1,6 @@
 {
     "name": "amazon-location-service-starter",
-    "version": "1.6.0",
+    "version": "2.0.2",
     "description": "",
     "scripts": {
         "dev": "vite",
@@ -11,12 +11,12 @@
     "author": "Yasunori Kirimoto",
     "license": "ISC",
     "devDependencies": {
-        "typescript": "^4.5.4",
-        "vite": "^2.9.9"
+        "typescript": "^4.7.4",
+        "vite": "^3.0.4"
     },
     "dependencies": {
-        "aws-amplify": "^4.3.26",
-        "maplibre-gl": "^1.15.3",
-        "maplibre-gl-js-amplify": "^1.6.0"
+        "aws-amplify": "^4.3.30",
+        "maplibre-gl": "^2.1.9",
+        "maplibre-gl-js-amplify": "^2.0.2"
     }
 }
